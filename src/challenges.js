@@ -13,7 +13,7 @@ function splitSentence(String) {
   return String.split(' ');
   /* Método String split () utilizado para separar uma string em um array de strings, nesse caso, o programa pede que retorne cada palavra como um elemento separado do array.
   Método retirado de: https://www.w3schools.com/jsref/jsref_split.asp
-*/
+  */
 }
 
 // Desafio 4
